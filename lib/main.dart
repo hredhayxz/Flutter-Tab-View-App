@@ -126,7 +126,6 @@ class TabPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       floatingActionButton: FloatingActionButton(
-        backgroundColor: color,
         onPressed: () {},
         child: Icon(Icons.add),
       ),
